@@ -70,7 +70,11 @@ Agora que as alterações já estão no seu repositório do GitHub, você pode s
 
 Na página seguinte, você pode descrever o motivo do seu PR. Como este é um repositório de teste, fique à vontade para deixar uma mensagem qualquer ou a mensagem _default_.
 
-## Referências
+## Referências e outras coisas legais
 
 - https://help.github.com/en/articles/fork-a-repo
 - https://guides.github.com/activities/forking/
+
+Tabela dos comandos mais utilizados:
+
+- https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf
